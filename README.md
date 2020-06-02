@@ -1,0 +1,2 @@
+# Cofo
+Codeforces easy tool
