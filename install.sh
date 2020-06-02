@@ -1,4 +1,8 @@
-mkdir ~/.CoFo
+sudo mkdir ~/.CoFo
+sudo chmod u=rx gen
+sudo chmod u=rx test
+sudo chmod u=rx temp
+sudo chmod u=rx main
 sudo cp gen /bin/LLgencofoLL
 sudo cp test /bin/LLtestcofoLL
 sudo cp temp /bin/LLtempcofoLL
@@ -7,4 +11,3 @@ rm gen
 rm test
 rm temp
 rm main
-
